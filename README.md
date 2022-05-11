@@ -9,3 +9,4 @@ Purpose-built security agent for hosted runners
 This agent is used by the `harden-runner` GitHub Action. 
 
 
+Release-test
