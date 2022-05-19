@@ -8,4 +8,4 @@ Purpose-built security agent for hosted runners
 
 This agent is used by the `harden-runner` GitHub Action. 
 
-
+Test for release/0.1
